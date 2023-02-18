@@ -1,26 +1,26 @@
 {
-  "store_id": 51359,
-  "name": "holuz",
   "domain": "holuz.netlify.app",
-  "short_name": "holuz",
-  "description": "holuz",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f1f0ee",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/holuz",
+  "logo": "/img/uploads/logo-sem-fundo.png",
+  "name": "Ziron Store",
+  "short_name": "Ziron",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "font_family": "Roboto",
+  "favicon": "/img/uploads/favicon.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
-  "repository": "ecomplus-stores/holuz",
-  "icons_font": "_",
-  "font_family": "_"
+  "secondary_color": "#1a3843",
+  "icon": "/img/uploads/logo-sem-fundo.png",
+  "store_id": 51359,
+  "description": "📲 | Produtos novos e lacrados\n📦 | Entregamos em mãos no Recife-PE\n✈️ | Enviamos para todo o Brasil\n💳 | Parcelamos em até 18x",
+  "large_icon": "/img/uploads/logo-sem-fundo.png"
 }
