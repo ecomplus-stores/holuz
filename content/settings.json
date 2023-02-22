@@ -1,7 +1,7 @@
 {
   "domain": "holuz.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f1f0ee",
+  "primary_color": "#8e8e8e",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-game"
@@ -15,7 +15,7 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Roboto",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-sem-fundo.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#1a3843",
