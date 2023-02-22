@@ -33,7 +33,8 @@
     "elo": true,
     "amex": true,
     "hipercard": true,
-    "boleto": true
+    "boleto": true,
+    "diners": true
   },
   "credits": ""
 }
