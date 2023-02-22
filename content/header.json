@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Produtos Apple novos e lacrados",
+    "link": "",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
