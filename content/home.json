@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/banner-apple.jpg",
@@ -13,7 +13,7 @@
           "alt": "Produtos Apple",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/carrossel-multiproduto.png.jpeg"
+          "mobile_img": "/img/uploads/banner-apple.jpg"
         },
         {
           "start": "",
