@@ -1,8 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "Parcelamos em até 18x e com as melhores taxas disponível de forma presencial",
     "link": "",
-    "color": ""
+    "color": "#f1f0ee",
+    "background": "#1a3843"
   },
   "contacts_stripe": {
     "pages": [
