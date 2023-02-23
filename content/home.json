@@ -8,12 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-apple.jpg",
+          "img": "/img/uploads/banner01.png.webp",
           "link": "",
           "alt": "Produtos Apple",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-apple.jpg"
+          "mobile_img": "/img/uploads/banner01.png.webp"
         },
         {
           "start": "",
