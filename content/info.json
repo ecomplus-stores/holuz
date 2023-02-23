@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 18x com acréscimo "
+    "text": "Parcele em até 18x"
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": true,
