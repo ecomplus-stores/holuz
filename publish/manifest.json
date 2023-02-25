@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.295330343f44bdd6cfe199c554daf515.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3a3937dc85472d67287a45fd13f056a0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9cbec9e23c0c735bf80c8771487d4bef.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.2c7f8648877e2d31a1f267ea55eb03a3.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.611f2cb30cc99d2f0d198621f621c96c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ziron Store",
+  "short_name": "Ziron",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "📲 | Produtos novos e lacrados\n📦 | Entregamos em mãos no Recife-PE\n✈️ | Enviamos para todo o Brasil\n💳 | Parcelamos em até 12x no site e até 18x presencialmente",
+  "background_color": "#ffffff",
+  "theme_color": "#8e8e8e"
+}
