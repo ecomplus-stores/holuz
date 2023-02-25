@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://holuz.netlify.app/iphone-11</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://holuz.netlify.app/iphone-11-c481</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://holuz.netlify.app/iphone</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -62,6 +50,18 @@
     </url>
   
     <url>
+      <loc>https://holuz.netlify.app/iphone-11-128gb</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://holuz.netlify.app/iphone-11-64gb</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://holuz.netlify.app/apple</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -104,6 +104,12 @@
     </url>
   
     <url>
+      <loc>https://holuz.netlify.app/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://holuz.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -111,12 +117,6 @@
   
     <url>
       <loc>https://holuz.netlify.app/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://holuz.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
